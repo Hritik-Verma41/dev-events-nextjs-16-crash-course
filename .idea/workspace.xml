@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6392fee6-b494-46cd-a392-fd98c2c56340" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/file.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/globe.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/window.svg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.898899482855023" />
+      <entry key="MS500" value="3.797025810998708" />
+      <entry key="S2" value="6.254959537045314" />
+      <entry key="S5" value="7.631276271598156" />
+      <entry key="S10" value="8.258321232823583" />
+      <entry key="S30" value="8.74285849083064" />
+      <entry key="S60" value="9.233523519491671" />
+      <entry key="M2" value="12.41785291428716" />
+      <entry key="M5" value="24.650462084048968" />
+      <entry key="M10" value="38.38286421165201" />
+      <entry key="M15" value="46.256136901026245" />
+      <entry key="M30" value="57.023059960359205" />
+      <entry key="H1" value="63.88054478052634" />
+      <entry key="H2" value="67.76698439100002" />
+      <entry key="H4" value="69.8380492421187" />
+      <entry key="D1" value="71.63317435033609" />
+      <entry key="W1" value="71.94743461174036" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.6150611819995173E-176" />
+      <entry key="S5" value="5.8478031062394374E-71" />
+      <entry key="S10" value="7.647092981152673E-36" />
+      <entry key="S30" value="1.970147719359542E-12" />
+      <entry key="S60" value="1.40361950661835E-6" />
+      <entry key="M2" value="0.001184744490013921" />
+      <entry key="M5" value="0.06752271230182297" />
+      <entry key="M10" value="0.25985132730433197" />
+      <entry key="M15" value="0.40720830453276546" />
+      <entry key="M30" value="0.6381287523163054" />
+      <entry key="H1" value="0.7988296140706769" />
+      <entry key="H2" value="0.893772685905469" />
+      <entry key="H4" value="0.9453955182385132" />
+      <entry key="D1" value="0.990685005668608" />
+      <entry key="W1" value="0.9986639432901965" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.81143249814874" />
+      <entry key="MS500" value="3.7540429672425697" />
+      <entry key="S2" value="6.235146527562995" />
+      <entry key="S5" value="7.621342384932107" />
+      <entry key="S10" value="8.25289840269858" />
+      <entry key="S30" value="8.740918769600139" />
+      <entry key="S60" value="9.231960294211541" />
+      <entry key="M2" value="12.415847733985151" />
+      <entry key="M5" value="24.711992925746074" />
+      <entry key="M10" value="38.63632802792127" />
+      <entry key="M15" value="46.657666716400335" />
+      <entry key="M30" value="57.65733649300956" />
+      <entry key="H1" value="64.6771169017966" />
+      <entry key="H2" value="68.65953326998566" />
+      <entry key="H4" value="70.78280738091082" />
+      <entry key="D1" value="72.62374943311818" />
+      <entry key="W1" value="72.94608275923746" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3GujhzwWXY4eigpTnWqstOrV05Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "to.speed.mode.migration.done": "true",
+    "ts.external.directory.path": "/Users/hritikverma/WebstormProjects/nextjs-crash-course/node_modules/typescript/lib"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-WS-262.8665.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6392fee6-b494-46cd-a392-fd98c2c56340" name="Changes" comment="" />
+      <created>1784828470800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1784828470800</updated>
+      <workItem from="1784828471799" duration="1345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
